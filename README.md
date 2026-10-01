@@ -123,4 +123,4 @@ Dataset dan file hasil data cleansing dapat diakses melalui folder Google Drive 
 
 Seluruh proses data cleansing dilakukan menggunakan Google Colab.
 
-[Google Colab - Data Cleansing]([https://colab.research.google.com/drive/1Rdwq1Tm4mRNb5difTGhQ4qk3JwrX7XVc](https://colab.research.google.com/drive/1Atq8U8TRcdJ2ypNgxJlZUJuqWdVOJnLf?usp=sharing))
+[Google Colab - Data Cleansing](https://colab.research.google.com/drive/1Atq8U8TRcdJ2ypNgxJlZUJuqWdVOJnLf?usp=sharing)]
