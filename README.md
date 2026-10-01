@@ -117,10 +117,10 @@ File hasil berada pada folder:
 
 Dataset dan file hasil data cleansing dapat diakses melalui folder Google Drive berikut:
 
-[Folder Google Drive](https://drive.google.com/drive/folders/1PlG2GTUl_VQWB924oQ6WW1wtSGFRqcCA)
+[Folder Google Drive](https://docs.google.com/spreadsheets/d/1q7BgojMN5zxJAkCAeRyeBzOPuO2WKGIC/edit?usp=drive_link&ouid=116531442615651384995&rtpof=true&sd=true)
 
 ## Google Colab
 
 Seluruh proses data cleansing dilakukan menggunakan Google Colab.
 
-[Google Colab - Data Cleansing](https://colab.research.google.com/drive/1Rdwq1Tm4mRNb5difTGhQ4qk3JwrX7XVc)
+[Google Colab - Data Cleansing]([https://colab.research.google.com/drive/1Rdwq1Tm4mRNb5difTGhQ4qk3JwrX7XVc](https://colab.research.google.com/drive/1Atq8U8TRcdJ2ypNgxJlZUJuqWdVOJnLf?usp=sharing))
